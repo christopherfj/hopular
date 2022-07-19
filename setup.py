@@ -19,8 +19,7 @@ setuptools.setup(
         r'pytorch-lightning>=1.4.9',
         r'fairscale>=0.4.3',
         r'scikit-learn>=1.0.1',
-        r'pandas>=1.3.3',
-        r'hopfield-layers@git+https://github.com/ml-jku/hopfield-layers'
+        r'pandas>=1.3.3'
     ],
     zip_safe=True,
     include_package_data=True,
